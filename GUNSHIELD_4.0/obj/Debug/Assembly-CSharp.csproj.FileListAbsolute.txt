@@ -1,0 +1,2 @@
+C:\Users\tolso\OneDrive\Documents\XudioGames\gunshield nick version\gunshield nick bersion\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\tolso\OneDrive\Documents\XudioGames\gunshield nick version\gunshield nick bersion\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScreen.unity
+    guid: 26e54e58a05785a4eb29df2e700fbb51
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: e222d4850996bcf48a0849779865945d
+  - enabled: 1
+    path: Assets/Scenes/LoadOutScene.unity
+    guid: d99b94e57ee355546ba1c75eb3ce14d2
+  - enabled: 1
+    path: Assets/Scenes/MegaDomeMap1.unity
+    guid: 8962bfa8e98194341b25d102ae008bc1
+  - enabled: 1
+    path: Assets/Scenes/MapSelect.unity
+    guid: a516eb225dd91954aa9c98e8a6e72654
+  - enabled: 1
+    path: Assets/Scenes/WinScene.unity
+    guid: 55bdfff9ef2aa4542a23121876c0d505
+  - enabled: 1
+    path: Assets/Scenes/Factory1.unity
+    guid: 6beeb96cc1d255f44a3776fc0c2933b5
+  - enabled: 1
+    path: Assets/Scenes/Field1.unity
+    guid: a0ee01a60faf5554991e2a9f31b4cdde
+  - enabled: 1
+    path: Assets/Scenes/PilotLore.unity
+    guid: 6eba3c2d145da284c85eea1bc7036820
+  - enabled: 1
+    path: Assets/Scenes/TrainingZone1.unity
+    guid: 63801553a4e2fc1458534a910113663a
+  - enabled: 1
+    path: Assets/Scenes/WeaponShow.unity
+    guid: a4b7e48d63ce25f4fbb11df8a17075fd
+  - enabled: 1
+    path: Assets/Scenes/ControlsScene.unity
+    guid: 52c7d91fb73a5214ba332a4192fb1555
+  - enabled: 1
+    path: Assets/Scenes/OptionsMenu.unity
+    guid: 048f57e2efd79f94a98b5c4bf72f7a64
+  - enabled: 1
+    path: Assets/Scenes/InformationBase.unity
+    guid: 4eab2de0389c9b24cabf1cbb9393cd1e
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 4c39d26bdc3589f49bed5deb33b5abae, type: 2}
